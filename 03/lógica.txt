@@ -1,0 +1,11 @@
+A - Números impares. Próximo número é 9.
+
+B - Cada número é o dobro do anterior. Próximo número é 128.
+
+C - Essa sequência consiste nos quadrados dos numeros consecutivos. Próximo número é 49 (que seria 7 ao quadrado).
+
+D - Parece ser o quadrado dos números pares consecutivos. Próximo número é 100.
+
+E - Clássica sequência de Fibonacci. Próximo número é 13.
+
+F - Todos os números começam com a letra "D". Próximo número é 200.

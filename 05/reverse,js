@@ -1,0 +1,16 @@
+function inverterString(string) {
+    let inverted = "";
+    for (let i = string.length - 1; i >= 0; i--) {
+        inverted += string[i];
+    }
+    return inverted;
+}
+
+// Exemplo de entrada
+const entrada = 'Erick'
+
+// Chamada da função para inverter a string
+const resultado = inverterString(entrada);
+
+// Exibindo o resultado
+console.log("String invertida:", resultado);
