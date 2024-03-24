@@ -6,11 +6,11 @@ function inverterString(string) {
     return inverted;
 }
 
-// Exemplo de entrada
+// Exemplo de entrada:
 const entrada = 'Erick'
 
-// Chamada da função para inverter a string
+// Chamada da função para inverter a string:
 const resultado = inverterString(entrada);
 
-// Exibindo o resultado
+// Exibindo o resultado:
 console.log("String invertida:", resultado);
